@@ -1,0 +1,1768 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+	<dict>
+		<key>Major Version</key>
+		<integer>1</integer>
+		<key>Minor Version</key>
+		<integer>1</integer>
+		<key>Date</key>
+		<date>2013-05-06T19:38:35Z</date>
+		<key>Application Version</key>
+		<string>10.6.3</string>
+		<key>Features</key>
+		<integer>5</integer>
+		<key>Show Content Ratings</key>
+		<true/>
+		<key>Music Folder</key>
+		<string>file://localhost/C:/Users/rodger_s/Music/iTunes/iTunes%20Media/</string>
+		<key>Library Persistent ID</key>
+		<string>D8778CBD612219B4</string>
+		<key>Tracks</key>
+		<dict>
+			<key>238</key>
+			<dict>
+				<key>Track ID</key>
+				<integer>238</integer>
+				<key>Name</key>
+				<string>You Think You Know</string>
+				<key>Artist</key>
+				<string>Device</string>
+				<key>Album</key>
+				<string>Device - Extended Edition</string>
+				<key>Genre</key>
+				<string>Metal</string>
+				<key>Kind</key>
+				<string>MPEG audio file</string>
+				<key>Size</key>
+				<integer>8796085</integer>
+				<key>Total Time</key>
+				<integer>219846</integer>
+				<key>Disc Number</key>
+				<integer>1</integer>
+				<key>Disc Count</key>
+				<integer>1</integer>
+				<key>Track Number</key>
+				<integer>1</integer>
+				<key>Track Count</key>
+				<integer>13</integer>
+				<key>Year</key>
+				<integer>2013</integer>
+				<key>Date Modified</key>
+				<date>2013-05-02T03:15:30Z</date>
+				<key>Date Added</key>
+				<date>2013-05-06T19:37:03Z</date>
+				<key>Bit Rate</key>
+				<integer>320</integer>
+				<key>Sample Rate</key>
+				<integer>44100</integer>
+				<key>Persistent ID</key>
+				<string>BC721D312F18A41B</string>
+				<key>Track Type</key>
+				<string>File</string>
+				<key>Location</key>
+				<string>file://localhost/C:/Users/rodger_s/Music/iTunes/iTunes%20Media/Music/Device/Device%20-%20Extended%20Edition/01%20You%20Think%20You%20Know.mp3</string>
+				<key>File Folder Count</key>
+				<integer>5</integer>
+				<key>Library Folder Count</key>
+				<integer>1</integer>
+			</dict>
+			<key>243</key>
+			<dict>
+				<key>Track ID</key>
+				<integer>243</integer>
+				<key>Name</key>
+				<string>02 Penance</string>
+				<key>Artist</key>
+				<string>Device</string>
+				<key>Album Artist</key>
+				<string>Device</string>
+				<key>Composer</key>
+				<string>David Draiman/Geno Lenardo</string>
+				<key>Kind</key>
+				<string>MPEG audio file</string>
+				<key>Size</key>
+				<integer>8363486</integer>
+				<key>Total Time</key>
+				<integer>209031</integer>
+				<key>Date Modified</key>
+				<date>2013-05-02T03:16:17Z</date>
+				<key>Date Added</key>
+				<date>2013-05-06T19:37:04Z</date>
+				<key>Bit Rate</key>
+				<integer>320</integer>
+				<key>Sample Rate</key>
+				<integer>44100</integer>
+				<key>Persistent ID</key>
+				<string>EA2EE6C7EB3A1D35</string>
+				<key>Track Type</key>
+				<string>File</string>
+				<key>Location</key>
+				<string>file://localhost/C:/Users/rodger_s/Music/iTunes/iTunes%20Media/Music/Device/Device%20-%20Extended%20Edition/02%20Penance.mp3</string>
+				<key>File Folder Count</key>
+				<integer>5</integer>
+				<key>Library Folder Count</key>
+				<integer>1</integer>
+			</dict>
+			<key>246</key>
+			<dict>
+				<key>Track ID</key>
+				<integer>246</integer>
+				<key>Name</key>
+				<string>03 Vilify</string>
+				<key>Artist</key>
+				<string>Device</string>
+				<key>Album Artist</key>
+				<string>Device</string>
+				<key>Composer</key>
+				<string>David Draiman/Geno Lenardo</string>
+				<key>Kind</key>
+				<string>MPEG audio file</string>
+				<key>Size</key>
+				<integer>8796073</integer>
+				<key>Total Time</key>
+				<integer>219846</integer>
+				<key>Date Modified</key>
+				<date>2013-05-02T03:16:38Z</date>
+				<key>Date Added</key>
+				<date>2013-05-06T19:37:04Z</date>
+				<key>Bit Rate</key>
+				<integer>320</integer>
+				<key>Sample Rate</key>
+				<integer>44100</integer>
+				<key>Persistent ID</key>
+				<string>EFA24448FEEF4FFF</string>
+				<key>Track Type</key>
+				<string>File</string>
+				<key>Location</key>
+				<string>file://localhost/C:/Users/rodger_s/Music/iTunes/iTunes%20Media/Music/Device/Device%20-%20Extended%20Edition/03%20Vilify.mp3</string>
+				<key>File Folder Count</key>
+				<integer>5</integer>
+				<key>Library Folder Count</key>
+				<integer>1</integer>
+			</dict>
+			<key>249</key>
+			<dict>
+				<key>Track ID</key>
+				<integer>249</integer>
+				<key>Name</key>
+				<string>Close My Eyes Forever Featuring Lzzy Hale</string>
+				<key>Artist</key>
+				<string>Device</string>
+				<key>Album</key>
+				<string>Device - Extended Edition</string>
+				<key>Genre</key>
+				<string>Metal</string>
+				<key>Kind</key>
+				<string>MPEG audio file</string>
+				<key>Size</key>
+				<integer>11045773</integer>
+				<key>Total Time</key>
+				<integer>276088</integer>
+				<key>Disc Number</key>
+				<integer>1</integer>
+				<key>Disc Count</key>
+				<integer>1</integer>
+				<key>Track Number</key>
+				<integer>4</integer>
+				<key>Track Count</key>
+				<integer>13</integer>
+				<key>Year</key>
+				<integer>2013</integer>
+				<key>Date Modified</key>
+				<date>2013-05-02T03:17:15Z</date>
+				<key>Date Added</key>
+				<date>2013-05-06T19:37:04Z</date>
+				<key>Bit Rate</key>
+				<integer>320</integer>
+				<key>Sample Rate</key>
+				<integer>44100</integer>
+				<key>Persistent ID</key>
+				<string>3AAE3254CD30EEFC</string>
+				<key>Track Type</key>
+				<string>File</string>
+				<key>Location</key>
+				<string>file://localhost/C:/Users/rodger_s/Music/iTunes/iTunes%20Media/Music/Device/Device%20-%20Extended%20Edition/04%20Close%20My%20Eyes%20Forever%20Featuring%20L.mp3</string>
+				<key>File Folder Count</key>
+				<integer>5</integer>
+				<key>Library Folder Count</key>
+				<integer>1</integer>
+			</dict>
+			<key>252</key>
+			<dict>
+				<key>Track ID</key>
+				<integer>252</integer>
+				<key>Name</key>
+				<string>Out Of Line Featuring Serj Tankian And Terry "Geezer" Butler</string>
+				<key>Artist</key>
+				<string>Device</string>
+				<key>Album</key>
+				<string>Device - Extended Edition</string>
+				<key>Genre</key>
+				<string>Metal</string>
+				<key>Kind</key>
+				<string>MPEG audio file</string>
+				<key>Size</key>
+				<integer>8838967</integer>
+				<key>Total Time</key>
+				<integer>220917</integer>
+				<key>Disc Number</key>
+				<integer>1</integer>
+				<key>Disc Count</key>
+				<integer>1</integer>
+				<key>Track Number</key>
+				<integer>5</integer>
+				<key>Track Count</key>
+				<integer>13</integer>
+				<key>Year</key>
+				<integer>2013</integer>
+				<key>Date Modified</key>
+				<date>2013-05-02T03:18:07Z</date>
+				<key>Date Added</key>
+				<date>2013-05-06T19:37:04Z</date>
+				<key>Bit Rate</key>
+				<integer>320</integer>
+				<key>Sample Rate</key>
+				<integer>44100</integer>
+				<key>Persistent ID</key>
+				<string>C1D13495EDCF578A</string>
+				<key>Track Type</key>
+				<string>File</string>
+				<key>Location</key>
+				<string>file://localhost/C:/Users/rodger_s/Music/iTunes/iTunes%20Media/Music/Device/Device%20-%20Extended%20Edition/05%20Out%20Of%20Line%20Featuring%20Serj%20Tankia.mp3</string>
+				<key>File Folder Count</key>
+				<integer>5</integer>
+				<key>Library Folder Count</key>
+				<integer>1</integer>
+			</dict>
+			<key>255</key>
+			<dict>
+				<key>Track ID</key>
+				<integer>255</integer>
+				<key>Name</key>
+				<string>06 Hunted</string>
+				<key>Artist</key>
+				<string>Device</string>
+				<key>Album Artist</key>
+				<string>Device</string>
+				<key>Composer</key>
+				<string>David Draiman/Geno Lenardo</string>
+				<key>Kind</key>
+				<string>MPEG audio file</string>
+				<key>Size</key>
+				<integer>9340464</integer>
+				<key>Total Time</key>
+				<integer>233456</integer>
+				<key>Date Modified</key>
+				<date>2013-05-02T03:19:27Z</date>
+				<key>Date Added</key>
+				<date>2013-05-06T19:37:04Z</date>
+				<key>Bit Rate</key>
+				<integer>320</integer>
+				<key>Sample Rate</key>
+				<integer>44100</integer>
+				<key>Persistent ID</key>
+				<string>39537079DE1210D8</string>
+				<key>Track Type</key>
+				<string>File</string>
+				<key>Location</key>
+				<string>file://localhost/C:/Users/rodger_s/Music/iTunes/iTunes%20Media/Music/Device/Device%20-%20Extended%20Edition/06%20Hunted.mp3</string>
+				<key>File Folder Count</key>
+				<integer>5</integer>
+				<key>Library Folder Count</key>
+				<integer>1</integer>
+			</dict>
+			<key>258</key>
+			<dict>
+				<key>Track ID</key>
+				<integer>258</integer>
+				<key>Name</key>
+				<string>07 Opinion Featuring Tom Morello</string>
+				<key>Artist</key>
+				<string>Device</string>
+				<key>Album Artist</key>
+				<string>Device</string>
+				<key>Composer</key>
+				<string>David Draiman/Geno Lenardo</string>
+				<key>Kind</key>
+				<string>MPEG audio file</string>
+				<key>Size</key>
+				<integer>9298691</integer>
+				<key>Total Time</key>
+				<integer>232411</integer>
+				<key>Date Modified</key>
+				<date>2013-05-02T03:20:48Z</date>
+				<key>Date Added</key>
+				<date>2013-05-06T19:37:04Z</date>
+				<key>Bit Rate</key>
+				<integer>320</integer>
+				<key>Sample Rate</key>
+				<integer>44100</integer>
+				<key>Persistent ID</key>
+				<string>37A3345CF1B2806A</string>
+				<key>Track Type</key>
+				<string>File</string>
+				<key>Location</key>
+				<string>file://localhost/C:/Users/rodger_s/Music/iTunes/iTunes%20Media/Music/Device/Device%20-%20Extended%20Edition/07%20Opinion%20Featuring%20Tom%20Morello.mp3</string>
+				<key>File Folder Count</key>
+				<integer>5</integer>
+				<key>Library Folder Count</key>
+				<integer>1</integer>
+			</dict>
+			<key>261</key>
+			<dict>
+				<key>Track ID</key>
+				<integer>261</integer>
+				<key>Name</key>
+				<string>08 War Of Lies</string>
+				<key>Artist</key>
+				<string>Device</string>
+				<key>Album Artist</key>
+				<string>Device</string>
+				<key>Composer</key>
+				<string>David Draiman/Geno Lenardo</string>
+				<key>Kind</key>
+				<string>MPEG audio file</string>
+				<key>Size</key>
+				<integer>9827392</integer>
+				<key>Total Time</key>
+				<integer>245629</integer>
+				<key>Date Modified</key>
+				<date>2013-05-02T03:22:29Z</date>
+				<key>Date Added</key>
+				<date>2013-05-06T19:37:04Z</date>
+				<key>Bit Rate</key>
+				<integer>320</integer>
+				<key>Sample Rate</key>
+				<integer>44100</integer>
+				<key>Persistent ID</key>
+				<string>BF32C33B808D1B39</string>
+				<key>Track Type</key>
+				<string>File</string>
+				<key>Location</key>
+				<string>file://localhost/C:/Users/rodger_s/Music/iTunes/iTunes%20Media/Music/Device/Device%20-%20Extended%20Edition/08%20War%20Of%20Lies.mp3</string>
+				<key>File Folder Count</key>
+				<integer>5</integer>
+				<key>Library Folder Count</key>
+				<integer>1</integer>
+			</dict>
+			<key>264</key>
+			<dict>
+				<key>Track ID</key>
+				<integer>264</integer>
+				<key>Name</key>
+				<string>09 Haze Featuring M. Shadows</string>
+				<key>Artist</key>
+				<string>Device</string>
+				<key>Album Artist</key>
+				<string>Device</string>
+				<key>Composer</key>
+				<string>David Draiman/Geno Lenardo</string>
+				<key>Kind</key>
+				<string>MPEG audio file</string>
+				<key>Size</key>
+				<integer>10603765</integer>
+				<key>Total Time</key>
+				<integer>265038</integer>
+				<key>Date Modified</key>
+				<date>2013-05-02T03:24:49Z</date>
+				<key>Date Added</key>
+				<date>2013-05-06T19:37:04Z</date>
+				<key>Bit Rate</key>
+				<integer>320</integer>
+				<key>Sample Rate</key>
+				<integer>44100</integer>
+				<key>Persistent ID</key>
+				<string>EAAB0E74BC38F042</string>
+				<key>Track Type</key>
+				<string>File</string>
+				<key>Location</key>
+				<string>file://localhost/C:/Users/rodger_s/Music/iTunes/iTunes%20Media/Music/Device/Device%20-%20Extended%20Edition/09%20Haze%20Featuring%20M.%20Shadows.mp3</string>
+				<key>File Folder Count</key>
+				<integer>5</integer>
+				<key>Library Folder Count</key>
+				<integer>1</integer>
+			</dict>
+			<key>267</key>
+			<dict>
+				<key>Track ID</key>
+				<integer>267</integer>
+				<key>Name</key>
+				<string>Through It All Featuring Glenn Hughes</string>
+				<key>Artist</key>
+				<string>Device</string>
+				<key>Album</key>
+				<string>Device - Extended Edition</string>
+				<key>Genre</key>
+				<string>Metal</string>
+				<key>Kind</key>
+				<string>MPEG audio file</string>
+				<key>Size</key>
+				<integer>12248447</integer>
+				<key>Total Time</key>
+				<integer>306155</integer>
+				<key>Disc Number</key>
+				<integer>1</integer>
+				<key>Disc Count</key>
+				<integer>1</integer>
+				<key>Track Number</key>
+				<integer>10</integer>
+				<key>Track Count</key>
+				<integer>13</integer>
+				<key>Year</key>
+				<integer>2013</integer>
+				<key>Date Modified</key>
+				<date>2013-05-02T03:27:39Z</date>
+				<key>Date Added</key>
+				<date>2013-05-06T19:37:04Z</date>
+				<key>Bit Rate</key>
+				<integer>320</integer>
+				<key>Sample Rate</key>
+				<integer>44100</integer>
+				<key>Persistent ID</key>
+				<string>B3F85ABF82A9BDA5</string>
+				<key>Track Type</key>
+				<string>File</string>
+				<key>Location</key>
+				<string>file://localhost/C:/Users/rodger_s/Music/iTunes/iTunes%20Media/Music/Device/Device%20-%20Extended%20Edition/10%20Through%20It%20All%20Featuring%20Glenn%20Hu.mp3</string>
+				<key>File Folder Count</key>
+				<integer>5</integer>
+				<key>Library Folder Count</key>
+				<integer>1</integer>
+			</dict>
+			<key>270</key>
+			<dict>
+				<key>Track ID</key>
+				<integer>270</integer>
+				<key>Name</key>
+				<string>Wish</string>
+				<key>Artist</key>
+				<string>Device</string>
+				<key>Album</key>
+				<string>Device - Extended Edition</string>
+				<key>Genre</key>
+				<string>Metal</string>
+				<key>Kind</key>
+				<string>MPEG audio file</string>
+				<key>Size</key>
+				<integer>9087598</integer>
+				<key>Total Time</key>
+				<integer>227134</integer>
+				<key>Disc Number</key>
+				<integer>1</integer>
+				<key>Disc Count</key>
+				<integer>1</integer>
+				<key>Track Number</key>
+				<integer>11</integer>
+				<key>Track Count</key>
+				<integer>13</integer>
+				<key>Year</key>
+				<integer>2013</integer>
+				<key>Date Modified</key>
+				<date>2013-05-02T03:30:05Z</date>
+				<key>Date Added</key>
+				<date>2013-05-06T19:37:04Z</date>
+				<key>Bit Rate</key>
+				<integer>320</integer>
+				<key>Sample Rate</key>
+				<integer>44100</integer>
+				<key>Persistent ID</key>
+				<string>1FD7C5C7362C3649</string>
+				<key>Track Type</key>
+				<string>File</string>
+				<key>Location</key>
+				<string>file://localhost/C:/Users/rodger_s/Music/iTunes/iTunes%20Media/Music/Device/Device%20-%20Extended%20Edition/11%20Wish.mp3</string>
+				<key>File Folder Count</key>
+				<integer>5</integer>
+				<key>Library Folder Count</key>
+				<integer>1</integer>
+			</dict>
+			<key>273</key>
+			<dict>
+				<key>Track ID</key>
+				<integer>273</integer>
+				<key>Name</key>
+				<string>A Part Of Me</string>
+				<key>Artist</key>
+				<string>Device</string>
+				<key>Album</key>
+				<string>Device - Extended Edition</string>
+				<key>Genre</key>
+				<string>Metal</string>
+				<key>Kind</key>
+				<string>MPEG audio file</string>
+				<key>Size</key>
+				<integer>8360357</integer>
+				<key>Total Time</key>
+				<integer>208953</integer>
+				<key>Disc Number</key>
+				<integer>1</integer>
+				<key>Disc Count</key>
+				<integer>1</integer>
+				<key>Track Number</key>
+				<integer>12</integer>
+				<key>Track Count</key>
+				<integer>13</integer>
+				<key>Year</key>
+				<integer>2013</integer>
+				<key>Date Modified</key>
+				<date>2013-05-02T03:32:18Z</date>
+				<key>Date Added</key>
+				<date>2013-05-06T19:37:04Z</date>
+				<key>Bit Rate</key>
+				<integer>320</integer>
+				<key>Sample Rate</key>
+				<integer>44100</integer>
+				<key>Sort Name</key>
+				<string>Part Of Me</string>
+				<key>Persistent ID</key>
+				<string>3815983ED53BC316</string>
+				<key>Track Type</key>
+				<string>File</string>
+				<key>Location</key>
+				<string>file://localhost/C:/Users/rodger_s/Music/iTunes/iTunes%20Media/Music/Device/Device%20-%20Extended%20Edition/12%20A%20Part%20Of%20Me.mp3</string>
+				<key>File Folder Count</key>
+				<integer>5</integer>
+				<key>Library Folder Count</key>
+				<integer>1</integer>
+			</dict>
+			<key>276</key>
+			<dict>
+				<key>Track ID</key>
+				<integer>276</integer>
+				<key>Name</key>
+				<string>Recover</string>
+				<key>Artist</key>
+				<string>Device</string>
+				<key>Album</key>
+				<string>Device - Extended Edition</string>
+				<key>Genre</key>
+				<string>Metal</string>
+				<key>Kind</key>
+				<string>MPEG audio file</string>
+				<key>Size</key>
+				<integer>10206687</integer>
+				<key>Total Time</key>
+				<integer>255111</integer>
+				<key>Disc Number</key>
+				<integer>1</integer>
+				<key>Disc Count</key>
+				<integer>1</integer>
+				<key>Track Number</key>
+				<integer>13</integer>
+				<key>Track Count</key>
+				<integer>13</integer>
+				<key>Year</key>
+				<integer>2013</integer>
+				<key>Date Modified</key>
+				<date>2013-05-02T03:35:32Z</date>
+				<key>Date Added</key>
+				<date>2013-05-06T19:37:05Z</date>
+				<key>Bit Rate</key>
+				<integer>320</integer>
+				<key>Sample Rate</key>
+				<integer>44100</integer>
+				<key>Persistent ID</key>
+				<string>38DF15CD91959DA9</string>
+				<key>Track Type</key>
+				<string>File</string>
+				<key>Location</key>
+				<string>file://localhost/C:/Users/rodger_s/Music/iTunes/iTunes%20Media/Music/Device/Device%20-%20Extended%20Edition/13%20Recover.mp3</string>
+				<key>File Folder Count</key>
+				<integer>5</integer>
+				<key>Library Folder Count</key>
+				<integer>1</integer>
+			</dict>
+			<key>312</key>
+			<dict>
+				<key>Track ID</key>
+				<integer>312</integer>
+				<key>Name</key>
+				<string>You Think You Know</string>
+				<key>Artist</key>
+				<string>Device</string>
+				<key>Album</key>
+				<string>Device - Extended Edition</string>
+				<key>Genre</key>
+				<string>Metal</string>
+				<key>Kind</key>
+				<string>MPEG audio file</string>
+				<key>Size</key>
+				<integer>8796085</integer>
+				<key>Total Time</key>
+				<integer>219846</integer>
+				<key>Disc Number</key>
+				<integer>1</integer>
+				<key>Disc Count</key>
+				<integer>1</integer>
+				<key>Track Number</key>
+				<integer>1</integer>
+				<key>Track Count</key>
+				<integer>13</integer>
+				<key>Year</key>
+				<integer>2013</integer>
+				<key>Date Modified</key>
+				<date>2013-05-02T03:15:30Z</date>
+				<key>Date Added</key>
+				<date>2013-05-06T19:38:31Z</date>
+				<key>Bit Rate</key>
+				<integer>320</integer>
+				<key>Sample Rate</key>
+				<integer>44100</integer>
+				<key>Persistent ID</key>
+				<string>9D2C09C0E5A48F47</string>
+				<key>Track Type</key>
+				<string>File</string>
+				<key>Location</key>
+				<string>file://localhost/C:/Users/rodger_s/Desktop/Delete%20Me/Device/Device%20-%20Extended%20Edition/01%20You%20Think%20You%20Know.mp3</string>
+				<key>File Folder Count</key>
+				<integer>-1</integer>
+				<key>Library Folder Count</key>
+				<integer>-1</integer>
+			</dict>
+			<key>317</key>
+			<dict>
+				<key>Track ID</key>
+				<integer>317</integer>
+				<key>Name</key>
+				<string>02 Penance</string>
+				<key>Artist</key>
+				<string>Device</string>
+				<key>Album Artist</key>
+				<string>Device</string>
+				<key>Composer</key>
+				<string>David Draiman/Geno Lenardo</string>
+				<key>Kind</key>
+				<string>MPEG audio file</string>
+				<key>Size</key>
+				<integer>8363486</integer>
+				<key>Total Time</key>
+				<integer>209031</integer>
+				<key>Date Modified</key>
+				<date>2013-05-02T03:16:17Z</date>
+				<key>Date Added</key>
+				<date>2013-05-06T19:38:31Z</date>
+				<key>Bit Rate</key>
+				<integer>320</integer>
+				<key>Sample Rate</key>
+				<integer>44100</integer>
+				<key>Persistent ID</key>
+				<string>703165750384416C</string>
+				<key>Track Type</key>
+				<string>File</string>
+				<key>Location</key>
+				<string>file://localhost/C:/Users/rodger_s/Desktop/Delete%20Me/Device/Device%20-%20Extended%20Edition/02%20Penance.mp3</string>
+				<key>File Folder Count</key>
+				<integer>-1</integer>
+				<key>Library Folder Count</key>
+				<integer>-1</integer>
+			</dict>
+			<key>320</key>
+			<dict>
+				<key>Track ID</key>
+				<integer>320</integer>
+				<key>Name</key>
+				<string>03 Vilify</string>
+				<key>Artist</key>
+				<string>Device</string>
+				<key>Album Artist</key>
+				<string>Device</string>
+				<key>Composer</key>
+				<string>David Draiman/Geno Lenardo</string>
+				<key>Kind</key>
+				<string>MPEG audio file</string>
+				<key>Size</key>
+				<integer>8796073</integer>
+				<key>Total Time</key>
+				<integer>219846</integer>
+				<key>Date Modified</key>
+				<date>2013-05-02T03:16:38Z</date>
+				<key>Date Added</key>
+				<date>2013-05-06T19:38:31Z</date>
+				<key>Bit Rate</key>
+				<integer>320</integer>
+				<key>Sample Rate</key>
+				<integer>44100</integer>
+				<key>Persistent ID</key>
+				<string>C4893B79D320E5D7</string>
+				<key>Track Type</key>
+				<string>File</string>
+				<key>Location</key>
+				<string>file://localhost/C:/Users/rodger_s/Desktop/Delete%20Me/Device/Device%20-%20Extended%20Edition/03%20Vilify.mp3</string>
+				<key>File Folder Count</key>
+				<integer>-1</integer>
+				<key>Library Folder Count</key>
+				<integer>-1</integer>
+			</dict>
+			<key>323</key>
+			<dict>
+				<key>Track ID</key>
+				<integer>323</integer>
+				<key>Name</key>
+				<string>Close My Eyes Forever Featuring Lzzy Hale</string>
+				<key>Artist</key>
+				<string>Device</string>
+				<key>Album</key>
+				<string>Device - Extended Edition</string>
+				<key>Genre</key>
+				<string>Metal</string>
+				<key>Kind</key>
+				<string>MPEG audio file</string>
+				<key>Size</key>
+				<integer>11045773</integer>
+				<key>Total Time</key>
+				<integer>276088</integer>
+				<key>Disc Number</key>
+				<integer>1</integer>
+				<key>Disc Count</key>
+				<integer>1</integer>
+				<key>Track Number</key>
+				<integer>4</integer>
+				<key>Track Count</key>
+				<integer>13</integer>
+				<key>Year</key>
+				<integer>2013</integer>
+				<key>Date Modified</key>
+				<date>2013-05-02T03:17:15Z</date>
+				<key>Date Added</key>
+				<date>2013-05-06T19:38:31Z</date>
+				<key>Bit Rate</key>
+				<integer>320</integer>
+				<key>Sample Rate</key>
+				<integer>44100</integer>
+				<key>Persistent ID</key>
+				<string>5D4C54FA095EAD24</string>
+				<key>Track Type</key>
+				<string>File</string>
+				<key>Location</key>
+				<string>file://localhost/C:/Users/rodger_s/Desktop/Delete%20Me/Device/Device%20-%20Extended%20Edition/04%20Close%20My%20Eyes%20Forever%20Featuring%20L.mp3</string>
+				<key>File Folder Count</key>
+				<integer>-1</integer>
+				<key>Library Folder Count</key>
+				<integer>-1</integer>
+			</dict>
+			<key>326</key>
+			<dict>
+				<key>Track ID</key>
+				<integer>326</integer>
+				<key>Name</key>
+				<string>Out Of Line Featuring Serj Tankian And Terry "Geezer" Butler</string>
+				<key>Artist</key>
+				<string>Device</string>
+				<key>Album</key>
+				<string>Device - Extended Edition</string>
+				<key>Genre</key>
+				<string>Metal</string>
+				<key>Kind</key>
+				<string>MPEG audio file</string>
+				<key>Size</key>
+				<integer>8838967</integer>
+				<key>Total Time</key>
+				<integer>220917</integer>
+				<key>Disc Number</key>
+				<integer>1</integer>
+				<key>Disc Count</key>
+				<integer>1</integer>
+				<key>Track Number</key>
+				<integer>5</integer>
+				<key>Track Count</key>
+				<integer>13</integer>
+				<key>Year</key>
+				<integer>2013</integer>
+				<key>Date Modified</key>
+				<date>2013-05-02T03:18:07Z</date>
+				<key>Date Added</key>
+				<date>2013-05-06T19:38:31Z</date>
+				<key>Bit Rate</key>
+				<integer>320</integer>
+				<key>Sample Rate</key>
+				<integer>44100</integer>
+				<key>Persistent ID</key>
+				<string>CF73446B3BAD0E2A</string>
+				<key>Track Type</key>
+				<string>File</string>
+				<key>Location</key>
+				<string>file://localhost/C:/Users/rodger_s/Desktop/Delete%20Me/Device/Device%20-%20Extended%20Edition/05%20Out%20Of%20Line%20Featuring%20Serj%20Tankia.mp3</string>
+				<key>File Folder Count</key>
+				<integer>-1</integer>
+				<key>Library Folder Count</key>
+				<integer>-1</integer>
+			</dict>
+			<key>329</key>
+			<dict>
+				<key>Track ID</key>
+				<integer>329</integer>
+				<key>Name</key>
+				<string>06 Hunted</string>
+				<key>Artist</key>
+				<string>Device</string>
+				<key>Album Artist</key>
+				<string>Device</string>
+				<key>Composer</key>
+				<string>David Draiman/Geno Lenardo</string>
+				<key>Kind</key>
+				<string>MPEG audio file</string>
+				<key>Size</key>
+				<integer>9340464</integer>
+				<key>Total Time</key>
+				<integer>233456</integer>
+				<key>Date Modified</key>
+				<date>2013-05-02T03:19:27Z</date>
+				<key>Date Added</key>
+				<date>2013-05-06T19:38:31Z</date>
+				<key>Bit Rate</key>
+				<integer>320</integer>
+				<key>Sample Rate</key>
+				<integer>44100</integer>
+				<key>Persistent ID</key>
+				<string>001910CEBC6ED0ED</string>
+				<key>Track Type</key>
+				<string>File</string>
+				<key>Location</key>
+				<string>file://localhost/C:/Users/rodger_s/Desktop/Delete%20Me/Device/Device%20-%20Extended%20Edition/06%20Hunted.mp3</string>
+				<key>File Folder Count</key>
+				<integer>-1</integer>
+				<key>Library Folder Count</key>
+				<integer>-1</integer>
+			</dict>
+			<key>332</key>
+			<dict>
+				<key>Track ID</key>
+				<integer>332</integer>
+				<key>Name</key>
+				<string>07 Opinion Featuring Tom Morello</string>
+				<key>Artist</key>
+				<string>Device</string>
+				<key>Album Artist</key>
+				<string>Device</string>
+				<key>Composer</key>
+				<string>David Draiman/Geno Lenardo</string>
+				<key>Kind</key>
+				<string>MPEG audio file</string>
+				<key>Size</key>
+				<integer>9298691</integer>
+				<key>Total Time</key>
+				<integer>232411</integer>
+				<key>Date Modified</key>
+				<date>2013-05-02T03:20:48Z</date>
+				<key>Date Added</key>
+				<date>2013-05-06T19:38:31Z</date>
+				<key>Bit Rate</key>
+				<integer>320</integer>
+				<key>Sample Rate</key>
+				<integer>44100</integer>
+				<key>Persistent ID</key>
+				<string>6011E0D555FD3070</string>
+				<key>Track Type</key>
+				<string>File</string>
+				<key>Location</key>
+				<string>file://localhost/C:/Users/rodger_s/Desktop/Delete%20Me/Device/Device%20-%20Extended%20Edition/07%20Opinion%20Featuring%20Tom%20Morello.mp3</string>
+				<key>File Folder Count</key>
+				<integer>-1</integer>
+				<key>Library Folder Count</key>
+				<integer>-1</integer>
+			</dict>
+			<key>335</key>
+			<dict>
+				<key>Track ID</key>
+				<integer>335</integer>
+				<key>Name</key>
+				<string>08 War Of Lies</string>
+				<key>Artist</key>
+				<string>Device</string>
+				<key>Album Artist</key>
+				<string>Device</string>
+				<key>Composer</key>
+				<string>David Draiman/Geno Lenardo</string>
+				<key>Kind</key>
+				<string>MPEG audio file</string>
+				<key>Size</key>
+				<integer>9827392</integer>
+				<key>Total Time</key>
+				<integer>245629</integer>
+				<key>Date Modified</key>
+				<date>2013-05-02T03:22:29Z</date>
+				<key>Date Added</key>
+				<date>2013-05-06T19:38:31Z</date>
+				<key>Bit Rate</key>
+				<integer>320</integer>
+				<key>Sample Rate</key>
+				<integer>44100</integer>
+				<key>Persistent ID</key>
+				<string>090D0EC5619E2F61</string>
+				<key>Track Type</key>
+				<string>File</string>
+				<key>Location</key>
+				<string>file://localhost/C:/Users/rodger_s/Desktop/Delete%20Me/Device/Device%20-%20Extended%20Edition/08%20War%20Of%20Lies.mp3</string>
+				<key>File Folder Count</key>
+				<integer>-1</integer>
+				<key>Library Folder Count</key>
+				<integer>-1</integer>
+			</dict>
+			<key>338</key>
+			<dict>
+				<key>Track ID</key>
+				<integer>338</integer>
+				<key>Name</key>
+				<string>09 Haze Featuring M. Shadows</string>
+				<key>Artist</key>
+				<string>Device</string>
+				<key>Album Artist</key>
+				<string>Device</string>
+				<key>Composer</key>
+				<string>David Draiman/Geno Lenardo</string>
+				<key>Kind</key>
+				<string>MPEG audio file</string>
+				<key>Size</key>
+				<integer>10603765</integer>
+				<key>Total Time</key>
+				<integer>265038</integer>
+				<key>Date Modified</key>
+				<date>2013-05-02T03:24:49Z</date>
+				<key>Date Added</key>
+				<date>2013-05-06T19:38:31Z</date>
+				<key>Bit Rate</key>
+				<integer>320</integer>
+				<key>Sample Rate</key>
+				<integer>44100</integer>
+				<key>Persistent ID</key>
+				<string>61345C2F40739172</string>
+				<key>Track Type</key>
+				<string>File</string>
+				<key>Location</key>
+				<string>file://localhost/C:/Users/rodger_s/Desktop/Delete%20Me/Device/Device%20-%20Extended%20Edition/09%20Haze%20Featuring%20M.%20Shadows.mp3</string>
+				<key>File Folder Count</key>
+				<integer>-1</integer>
+				<key>Library Folder Count</key>
+				<integer>-1</integer>
+			</dict>
+			<key>341</key>
+			<dict>
+				<key>Track ID</key>
+				<integer>341</integer>
+				<key>Name</key>
+				<string>Through It All Featuring Glenn Hughes</string>
+				<key>Artist</key>
+				<string>Device</string>
+				<key>Album</key>
+				<string>Device - Extended Edition</string>
+				<key>Genre</key>
+				<string>Metal</string>
+				<key>Kind</key>
+				<string>MPEG audio file</string>
+				<key>Size</key>
+				<integer>12248447</integer>
+				<key>Total Time</key>
+				<integer>306155</integer>
+				<key>Disc Number</key>
+				<integer>1</integer>
+				<key>Disc Count</key>
+				<integer>1</integer>
+				<key>Track Number</key>
+				<integer>10</integer>
+				<key>Track Count</key>
+				<integer>13</integer>
+				<key>Year</key>
+				<integer>2013</integer>
+				<key>Date Modified</key>
+				<date>2013-05-02T03:27:39Z</date>
+				<key>Date Added</key>
+				<date>2013-05-06T19:38:31Z</date>
+				<key>Bit Rate</key>
+				<integer>320</integer>
+				<key>Sample Rate</key>
+				<integer>44100</integer>
+				<key>Persistent ID</key>
+				<string>A2E1989784882B74</string>
+				<key>Track Type</key>
+				<string>File</string>
+				<key>Location</key>
+				<string>file://localhost/C:/Users/rodger_s/Desktop/Delete%20Me/Device/Device%20-%20Extended%20Edition/10%20Through%20It%20All%20Featuring%20Glenn%20Hu.mp3</string>
+				<key>File Folder Count</key>
+				<integer>-1</integer>
+				<key>Library Folder Count</key>
+				<integer>-1</integer>
+			</dict>
+			<key>344</key>
+			<dict>
+				<key>Track ID</key>
+				<integer>344</integer>
+				<key>Name</key>
+				<string>Wish</string>
+				<key>Artist</key>
+				<string>Device</string>
+				<key>Album</key>
+				<string>Device - Extended Edition</string>
+				<key>Genre</key>
+				<string>Metal</string>
+				<key>Kind</key>
+				<string>MPEG audio file</string>
+				<key>Size</key>
+				<integer>9087598</integer>
+				<key>Total Time</key>
+				<integer>227134</integer>
+				<key>Disc Number</key>
+				<integer>1</integer>
+				<key>Disc Count</key>
+				<integer>1</integer>
+				<key>Track Number</key>
+				<integer>11</integer>
+				<key>Track Count</key>
+				<integer>13</integer>
+				<key>Year</key>
+				<integer>2013</integer>
+				<key>Date Modified</key>
+				<date>2013-05-02T03:30:05Z</date>
+				<key>Date Added</key>
+				<date>2013-05-06T19:38:31Z</date>
+				<key>Bit Rate</key>
+				<integer>320</integer>
+				<key>Sample Rate</key>
+				<integer>44100</integer>
+				<key>Persistent ID</key>
+				<string>675E70B00E4442EC</string>
+				<key>Track Type</key>
+				<string>File</string>
+				<key>Location</key>
+				<string>file://localhost/C:/Users/rodger_s/Desktop/Delete%20Me/Device/Device%20-%20Extended%20Edition/11%20Wish.mp3</string>
+				<key>File Folder Count</key>
+				<integer>-1</integer>
+				<key>Library Folder Count</key>
+				<integer>-1</integer>
+			</dict>
+			<key>347</key>
+			<dict>
+				<key>Track ID</key>
+				<integer>347</integer>
+				<key>Name</key>
+				<string>A Part Of Me</string>
+				<key>Artist</key>
+				<string>Device</string>
+				<key>Album</key>
+				<string>Device - Extended Edition</string>
+				<key>Genre</key>
+				<string>Metal</string>
+				<key>Kind</key>
+				<string>MPEG audio file</string>
+				<key>Size</key>
+				<integer>8360357</integer>
+				<key>Total Time</key>
+				<integer>208953</integer>
+				<key>Disc Number</key>
+				<integer>1</integer>
+				<key>Disc Count</key>
+				<integer>1</integer>
+				<key>Track Number</key>
+				<integer>12</integer>
+				<key>Track Count</key>
+				<integer>13</integer>
+				<key>Year</key>
+				<integer>2013</integer>
+				<key>Date Modified</key>
+				<date>2013-05-02T03:32:18Z</date>
+				<key>Date Added</key>
+				<date>2013-05-06T19:38:31Z</date>
+				<key>Bit Rate</key>
+				<integer>320</integer>
+				<key>Sample Rate</key>
+				<integer>44100</integer>
+				<key>Sort Name</key>
+				<string>Part Of Me</string>
+				<key>Persistent ID</key>
+				<string>A461F71C42977457</string>
+				<key>Track Type</key>
+				<string>File</string>
+				<key>Location</key>
+				<string>file://localhost/C:/Users/rodger_s/Desktop/Delete%20Me/Device/Device%20-%20Extended%20Edition/12%20A%20Part%20Of%20Me.mp3</string>
+				<key>File Folder Count</key>
+				<integer>-1</integer>
+				<key>Library Folder Count</key>
+				<integer>-1</integer>
+			</dict>
+			<key>350</key>
+			<dict>
+				<key>Track ID</key>
+				<integer>350</integer>
+				<key>Name</key>
+				<string>Recover</string>
+				<key>Artist</key>
+				<string>Device</string>
+				<key>Album</key>
+				<string>Device - Extended Edition</string>
+				<key>Genre</key>
+				<string>Metal</string>
+				<key>Kind</key>
+				<string>MPEG audio file</string>
+				<key>Size</key>
+				<integer>10206687</integer>
+				<key>Total Time</key>
+				<integer>255111</integer>
+				<key>Disc Number</key>
+				<integer>1</integer>
+				<key>Disc Count</key>
+				<integer>1</integer>
+				<key>Track Number</key>
+				<integer>13</integer>
+				<key>Track Count</key>
+				<integer>13</integer>
+				<key>Year</key>
+				<integer>2013</integer>
+				<key>Date Modified</key>
+				<date>2013-05-02T03:35:32Z</date>
+				<key>Date Added</key>
+				<date>2013-05-06T19:38:31Z</date>
+				<key>Bit Rate</key>
+				<integer>320</integer>
+				<key>Sample Rate</key>
+				<integer>44100</integer>
+				<key>Persistent ID</key>
+				<string>9A89B279930BF73B</string>
+				<key>Track Type</key>
+				<string>File</string>
+				<key>Location</key>
+				<string>file://localhost/C:/Users/rodger_s/Desktop/Delete%20Me/Device/Device%20-%20Extended%20Edition/13%20Recover.mp3</string>
+				<key>File Folder Count</key>
+				<integer>-1</integer>
+				<key>Library Folder Count</key>
+				<integer>-1</integer>
+			</dict>
+		</dict>
+		<key>Playlists</key>
+		<array>
+			<dict>
+				<key>Name</key>
+				<string>Library</string>
+				<key>Master</key>
+				<true/>
+				<key>Playlist ID</key>
+				<integer>73</integer>
+				<key>Playlist Persistent ID</key>
+				<string>4113D14D77E222CC</string>
+				<key>Visible</key>
+				<false/>
+				<key>All Items</key>
+				<true/>
+				<key>Playlist Items</key>
+				<array>
+					<dict>
+						<key>Track ID</key>
+						<integer>238</integer>
+					</dict>
+					<dict>
+						<key>Track ID</key>
+						<integer>312</integer>
+					</dict>
+					<dict>
+						<key>Track ID</key>
+						<integer>249</integer>
+					</dict>
+					<dict>
+						<key>Track ID</key>
+						<integer>323</integer>
+					</dict>
+					<dict>
+						<key>Track ID</key>
+						<integer>252</integer>
+					</dict>
+					<dict>
+						<key>Track ID</key>
+						<integer>326</integer>
+					</dict>
+					<dict>
+						<key>Track ID</key>
+						<integer>267</integer>
+					</dict>
+					<dict>
+						<key>Track ID</key>
+						<integer>341</integer>
+					</dict>
+					<dict>
+						<key>Track ID</key>
+						<integer>270</integer>
+					</dict>
+					<dict>
+						<key>Track ID</key>
+						<integer>344</integer>
+					</dict>
+					<dict>
+						<key>Track ID</key>
+						<integer>273</integer>
+					</dict>
+					<dict>
+						<key>Track ID</key>
+						<integer>347</integer>
+					</dict>
+					<dict>
+						<key>Track ID</key>
+						<integer>276</integer>
+					</dict>
+					<dict>
+						<key>Track ID</key>
+						<integer>350</integer>
+					</dict>
+					<dict>
+						<key>Track ID</key>
+						<integer>243</integer>
+					</dict>
+					<dict>
+						<key>Track ID</key>
+						<integer>317</integer>
+					</dict>
+					<dict>
+						<key>Track ID</key>
+						<integer>246</integer>
+					</dict>
+					<dict>
+						<key>Track ID</key>
+						<integer>320</integer>
+					</dict>
+					<dict>
+						<key>Track ID</key>
+						<integer>255</integer>
+					</dict>
+					<dict>
+						<key>Track ID</key>
+						<integer>329</integer>
+					</dict>
+					<dict>
+						<key>Track ID</key>
+						<integer>258</integer>
+					</dict>
+					<dict>
+						<key>Track ID</key>
+						<integer>332</integer>
+					</dict>
+					<dict>
+						<key>Track ID</key>
+						<integer>261</integer>
+					</dict>
+					<dict>
+						<key>Track ID</key>
+						<integer>335</integer>
+					</dict>
+					<dict>
+						<key>Track ID</key>
+						<integer>264</integer>
+					</dict>
+					<dict>
+						<key>Track ID</key>
+						<integer>338</integer>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Music</string>
+				<key>Playlist ID</key>
+				<integer>110</integer>
+				<key>Playlist Persistent ID</key>
+				<string>AD5333134E9CA32C</string>
+				<key>Distinguished Kind</key>
+				<integer>4</integer>
+				<key>Music</key>
+				<true/>
+				<key>All Items</key>
+				<true/>
+				<key>Playlist Items</key>
+				<array>
+					<dict>
+						<key>Track ID</key>
+						<integer>238</integer>
+					</dict>
+					<dict>
+						<key>Track ID</key>
+						<integer>312</integer>
+					</dict>
+					<dict>
+						<key>Track ID</key>
+						<integer>249</integer>
+					</dict>
+					<dict>
+						<key>Track ID</key>
+						<integer>323</integer>
+					</dict>
+					<dict>
+						<key>Track ID</key>
+						<integer>252</integer>
+					</dict>
+					<dict>
+						<key>Track ID</key>
+						<integer>326</integer>
+					</dict>
+					<dict>
+						<key>Track ID</key>
+						<integer>267</integer>
+					</dict>
+					<dict>
+						<key>Track ID</key>
+						<integer>341</integer>
+					</dict>
+					<dict>
+						<key>Track ID</key>
+						<integer>270</integer>
+					</dict>
+					<dict>
+						<key>Track ID</key>
+						<integer>344</integer>
+					</dict>
+					<dict>
+						<key>Track ID</key>
+						<integer>273</integer>
+					</dict>
+					<dict>
+						<key>Track ID</key>
+						<integer>347</integer>
+					</dict>
+					<dict>
+						<key>Track ID</key>
+						<integer>276</integer>
+					</dict>
+					<dict>
+						<key>Track ID</key>
+						<integer>350</integer>
+					</dict>
+					<dict>
+						<key>Track ID</key>
+						<integer>243</integer>
+					</dict>
+					<dict>
+						<key>Track ID</key>
+						<integer>317</integer>
+					</dict>
+					<dict>
+						<key>Track ID</key>
+						<integer>246</integer>
+					</dict>
+					<dict>
+						<key>Track ID</key>
+						<integer>320</integer>
+					</dict>
+					<dict>
+						<key>Track ID</key>
+						<integer>255</integer>
+					</dict>
+					<dict>
+						<key>Track ID</key>
+						<integer>329</integer>
+					</dict>
+					<dict>
+						<key>Track ID</key>
+						<integer>258</integer>
+					</dict>
+					<dict>
+						<key>Track ID</key>
+						<integer>332</integer>
+					</dict>
+					<dict>
+						<key>Track ID</key>
+						<integer>261</integer>
+					</dict>
+					<dict>
+						<key>Track ID</key>
+						<integer>335</integer>
+					</dict>
+					<dict>
+						<key>Track ID</key>
+						<integer>264</integer>
+					</dict>
+					<dict>
+						<key>Track ID</key>
+						<integer>338</integer>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Movies</string>
+				<key>Playlist ID</key>
+				<integer>113</integer>
+				<key>Playlist Persistent ID</key>
+				<string>91CB5BA3CFAECC22</string>
+				<key>Distinguished Kind</key>
+				<integer>2</integer>
+				<key>Movies</key>
+				<true/>
+				<key>All Items</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>TV Shows</string>
+				<key>Playlist ID</key>
+				<integer>116</integer>
+				<key>Playlist Persistent ID</key>
+				<string>63C4719970031824</string>
+				<key>Distinguished Kind</key>
+				<integer>3</integer>
+				<key>TV Shows</key>
+				<true/>
+				<key>All Items</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Genius</string>
+				<key>Playlist ID</key>
+				<integer>128</integer>
+				<key>Playlist Persistent ID</key>
+				<string>C35498E541943C3A</string>
+				<key>Distinguished Kind</key>
+				<integer>26</integer>
+				<key>All Items</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>iTunes DJ</string>
+				<key>Playlist ID</key>
+				<integer>97</integer>
+				<key>Playlist Persistent ID</key>
+				<string>D99AD81B2EDBAC66</string>
+				<key>Distinguished Kind</key>
+				<integer>22</integer>
+				<key>Party Shuffle</key>
+				<true/>
+				<key>All Items</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>90’s Music</string>
+				<key>Playlist ID</key>
+				<integer>76</integer>
+				<key>Playlist Persistent ID</key>
+				<string>644FC359DF9FB937</string>
+				<key>Distinguished Kind</key>
+				<integer>200</integer>
+				<key>All Items</key>
+				<true/>
+				<key>Smart Info</key>
+				<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+				</data>
+				<key>Smart Criteria</key>
+				<data>
+			U0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcAAAEAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAAAAAAAAB8YAAAAAAAAAAAAAAAAAAAAB
+			AAAAAAAAB88AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQEA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgFNMc3QAAQAB
+			AAAAAgAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8AAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAB
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPAAABAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEQAAAAAAAAAIAAAAAAAAAAA
+			AAAAAAAAAAEAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+				</data>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Classical Music</string>
+				<key>Playlist ID</key>
+				<integer>94</integer>
+				<key>Playlist Persistent ID</key>
+				<string>8FF008A3667BB0DA</string>
+				<key>Distinguished Kind</key>
+				<integer>206</integer>
+				<key>All Items</key>
+				<true/>
+				<key>Smart Info</key>
+				<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+				</data>
+				<key>Smart Criteria</key>
+				<data>
+			U0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAU0xzdAABAAEAAAACAAAAAQAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAADwAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAABEAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAB
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8AAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAg
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEBAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABVxTTHN0AAEAAQAAABEAAAAB
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAACAEAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAABIAQwBsAGEAcwBzAGkAYwBhAGwAAAAIAQAAAQAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEABLAGwAYQBzAHMAaQBlAGsAAAAI
+			AQAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEgBD
+			AGwAYQBzAHMAaQBxAHUAZQAAAAgBAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAOAEsAbABhAHMAcwBpAGsAAAAIAQAAAQAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEABDAGwAYQBzAHMAaQBjAGEAAAAI
+			AQAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACjCv
+			MOkwtzDDMK8AAAAIAQAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAADgBDAGwA4QBzAGkAYwBhAAAACAEAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAASwBsAGEAcwBzAGkAcwBrAAAACAEAAAEAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAQwBsAOEAcwBz
+			AGkAYwBhAAAACAEAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAABIASwBsAGEAcwBzAGkAcwBrAHQAAAAIAQAAAQAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAQaBDsEMARBBEEEOARHBDUEQQQ6BDAETwAA
+			AAgBAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAS
+			AEsAbABhAHMAeQBjAHoAbgBhAAAACAEAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAABIASwBsAGEAcwBzAGkAbgBlAG4AAAAIAQAAAQAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADABLAGwAYQBzAGkAawAA
+			AAgBAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU
+			AEsAbABhAHMAcwB6AGkAawB1AHMAAAAIAQAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAFgBWAOEBfgBuAOEAIABoAHUAZABiAGEAAAAIAQAAAQAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgZDBkQGJwYz
+			BkoGQwZK
+				</data>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Music Videos</string>
+				<key>Playlist ID</key>
+				<integer>91</integer>
+				<key>Playlist Persistent ID</key>
+				<string>A95701DBCD314BC1</string>
+				<key>Distinguished Kind</key>
+				<integer>205</integer>
+				<key>All Items</key>
+				<true/>
+				<key>Smart Info</key>
+				<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+				</data>
+				<key>Smart Criteria</key>
+				<data>
+			U0xzdAABAAEAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwAAAQAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAB
+			AAAAAAAAACAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAA=
+				</data>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>My Top Rated</string>
+				<key>Playlist ID</key>
+				<integer>79</integer>
+				<key>Playlist Persistent ID</key>
+				<string>53CB54FF3CC88BD7</string>
+				<key>Distinguished Kind</key>
+				<integer>201</integer>
+				<key>All Items</key>
+				<true/>
+				<key>Smart Info</key>
+				<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+				</data>
+				<key>Smart Criteria</key>
+				<data>
+			U0xzdAABAAEAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABkAAAAQAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAAAAAAAAADwAAAAAAAAAAAAAAAAAAAAB
+			AAAAAAAAADwAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAA=
+				</data>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Recently Added</string>
+				<key>Playlist ID</key>
+				<integer>88</integer>
+				<key>Playlist Persistent ID</key>
+				<string>D5DE7F1C36F3F243</string>
+				<key>Distinguished Kind</key>
+				<integer>204</integer>
+				<key>All Items</key>
+				<true/>
+				<key>Smart Info</key>
+				<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+				</data>
+				<key>Smart Criteria</key>
+				<data>
+			U0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAIAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABELa4tri2uLa7//////////gAAAAAACTqA
+			La4tri2uLa4AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA5AgAAAQAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAB
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAA
+			AAAAAAAA
+				</data>
+				<key>Playlist Items</key>
+				<array>
+					<dict>
+						<key>Track ID</key>
+						<integer>238</integer>
+					</dict>
+					<dict>
+						<key>Track ID</key>
+						<integer>249</integer>
+					</dict>
+					<dict>
+						<key>Track ID</key>
+						<integer>252</integer>
+					</dict>
+					<dict>
+						<key>Track ID</key>
+						<integer>267</integer>
+					</dict>
+					<dict>
+						<key>Track ID</key>
+						<integer>270</integer>
+					</dict>
+					<dict>
+						<key>Track ID</key>
+						<integer>273</integer>
+					</dict>
+					<dict>
+						<key>Track ID</key>
+						<integer>276</integer>
+					</dict>
+					<dict>
+						<key>Track ID</key>
+						<integer>243</integer>
+					</dict>
+					<dict>
+						<key>Track ID</key>
+						<integer>246</integer>
+					</dict>
+					<dict>
+						<key>Track ID</key>
+						<integer>255</integer>
+					</dict>
+					<dict>
+						<key>Track ID</key>
+						<integer>258</integer>
+					</dict>
+					<dict>
+						<key>Track ID</key>
+						<integer>261</integer>
+					</dict>
+					<dict>
+						<key>Track ID</key>
+						<integer>264</integer>
+					</dict>
+					<dict>
+						<key>Track ID</key>
+						<integer>312</integer>
+					</dict>
+					<dict>
+						<key>Track ID</key>
+						<integer>323</integer>
+					</dict>
+					<dict>
+						<key>Track ID</key>
+						<integer>326</integer>
+					</dict>
+					<dict>
+						<key>Track ID</key>
+						<integer>341</integer>
+					</dict>
+					<dict>
+						<key>Track ID</key>
+						<integer>344</integer>
+					</dict>
+					<dict>
+						<key>Track ID</key>
+						<integer>347</integer>
+					</dict>
+					<dict>
+						<key>Track ID</key>
+						<integer>350</integer>
+					</dict>
+					<dict>
+						<key>Track ID</key>
+						<integer>317</integer>
+					</dict>
+					<dict>
+						<key>Track ID</key>
+						<integer>320</integer>
+					</dict>
+					<dict>
+						<key>Track ID</key>
+						<integer>329</integer>
+					</dict>
+					<dict>
+						<key>Track ID</key>
+						<integer>332</integer>
+					</dict>
+					<dict>
+						<key>Track ID</key>
+						<integer>335</integer>
+					</dict>
+					<dict>
+						<key>Track ID</key>
+						<integer>338</integer>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Recently Played</string>
+				<key>Playlist ID</key>
+				<integer>85</integer>
+				<key>Playlist Persistent ID</key>
+				<string>19F7A65F6606E8C2</string>
+				<key>Distinguished Kind</key>
+				<integer>203</integer>
+				<key>All Items</key>
+				<true/>
+				<key>Smart Info</key>
+				<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+				</data>
+				<key>Smart Criteria</key>
+				<data>
+			U0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABcAAAIAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABELa4tri2uLa7//////////gAAAAAACTqA
+			La4tri2uLa4AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA5AgAAAQAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAB
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAA
+			AAAAAAAA
+				</data>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Top 25 Most Played</string>
+				<key>Playlist ID</key>
+				<integer>82</integer>
+				<key>Playlist Persistent ID</key>
+				<string>490F5C9F5239E661</string>
+				<key>Distinguished Kind</key>
+				<integer>202</integer>
+				<key>All Items</key>
+				<true/>
+				<key>Smart Info</key>
+				<data>
+			AQEBAwAAABkAAAAZAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+				</data>
+				<key>Smart Criteria</key>
+				<data>
+			U0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADkCAAABAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAB
+			AAAAAAAAAAEAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAAAEAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAA
+			AAAAAAAA
+				</data>
+			</dict>
+		</array>
+	</dict>
+</plist>
